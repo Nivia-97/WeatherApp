@@ -1,0 +1,34 @@
+.description {
+    width: 100%;
+    border-radius: 5px;
+    color: white;
+    opacity: 80%;
+}
+
+.description-card {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--section-overlay);
+    border-radius: 5px;
+}
+
+.card-icon{
+    text-align: center;
+}
+
+.card-icon>i{
+    font-size: 22px;
+}
+
+.card-icon>small{
+    font-size: 16px;
+}
+
+.card-icon>h2{
+    font-size: 17px;
+    margin: auto;
+}
+
